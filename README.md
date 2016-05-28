@@ -2,7 +2,7 @@
 easy search in YouTube (API key needed)
 
 ### Version
-0.0.1
+0.1.0
 
 ### Using:
 ```sh

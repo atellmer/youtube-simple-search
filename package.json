@@ -1,6 +1,6 @@
 {
   "name": "youtube-simple-search",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "easy search in YouTube",
   "main": "index.js",
   "keywords": [
