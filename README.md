@@ -6,6 +6,11 @@ easy search in YouTube (API key needed)
 
 ### Using:
 ```sh
+npm i youtube-simple-search
+```
+
+
+```sh
 import search from 'youtube-simple-search';
 
  search({
