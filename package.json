@@ -8,6 +8,11 @@
     "search",
     "api"
   ],
+  "homepage": "https://github.com/atellmer/youtube-simple-search",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atellmer/youtube-simple-search.git"
+  },
   "author": "AlexPlex",
   "license": "MIT",
   "dependencies": {
