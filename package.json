@@ -1,0 +1,16 @@
+{
+  "name": "youtube-simple-search",
+  "version": "0.0.1",
+  "description": "easy search in YouTube",
+  "main": "index.js",
+  "keywords": [
+    "youtube",
+    "search",
+    "api"
+  ],
+  "author": "AlexPlex",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.11.1"
+  }
+}
