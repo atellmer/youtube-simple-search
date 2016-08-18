@@ -10,9 +10,9 @@ module.exports = function (options, callback) {
   let params = {
     key: options.key,
     q: options.query,
-    part: options.part || 'snippet',
     maxResults: options.maxResults || 10,
-    type: options.type || 'video'
+    part: 'snippet',
+    type: 'video'
   };
 
   ajax.get(URL, { params })

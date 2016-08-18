@@ -2,7 +2,7 @@
 easy search in YouTube (API key needed)
 
 ### Version
-0.1.0
+0.1.1
 
 ### Using:
 ```sh
@@ -11,13 +11,17 @@ npm i youtube-simple-search
 
 
 ```sh
-import search from 'youtube-simple-search';
+    var yss = require('youtube-simple-search');
 
- search({
-      key: API_KEY,
-      query: 'Taylor Swift',
-      maxResults: 10
-    },
-     callback(result);
-    });
+	yss({
+		key: API_KEY,
+		query: 'Taylor Swift',
+		maxResults: 10
+	},
+		callback
+	);
+
+    function callback(result) {
+		console.log(result);
+	}
 ```

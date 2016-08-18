@@ -1,12 +1,13 @@
 {
   "name": "youtube-simple-search",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "easy search in YouTube",
   "main": "index.js",
   "keywords": [
     "youtube",
     "search",
-    "api"
+    "api",
+    "simple search"
   ],
   "homepage": "https://github.com/atellmer/youtube-simple-search",
   "repository": {
